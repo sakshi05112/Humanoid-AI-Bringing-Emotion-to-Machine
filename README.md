@@ -1,4 +1,4 @@
-# ai-assistant-with-animatronics
+# Humanoid AI:Bringing Emotions to Machine
 ![WhatsApp Image 2025-06-19 at 21 26 19_804836a7](https://github.com/user-attachments/assets/a22b006c-45b1-4e74-840d-5cef856f2e5d)
 # 🤖 AI Assistant with Animatronic Eyes
 
